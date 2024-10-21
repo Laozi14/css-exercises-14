@@ -1,0 +1,19 @@
+.text, .normal-text{
+    background-color: #FFB6C1;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.text{
+    font-size: 24px;
+}
+
+#big-text{
+   color:#0000FF;
+   font-size: 36px 
+}
+
+#green-text{
+    background-color: #008000;
+    font-size: 24px;
+    font-weight: bold;
+}
